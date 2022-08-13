@@ -171,3 +171,6 @@ a:visited{
 a:hover{
     text-decoration: underline;
 }
+.tr a{
+    color: #70757A;
+}
